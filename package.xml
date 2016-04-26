@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>udevadm_monitor</name>
+  <version>0.0.0</version>
+  <description>A ROS wrapper for udevadm monitor</description>
+  <maintainer email="bsd26@cornell.edu">Brandon Duffany</maintainer>
+  <license>MIT</license>
+  <url type="website">http://github.com/CornellMarsRover/udevadm_monitor_ros</url>
+  <author email="bsd26@cornell.edu">Brandon Duffany</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>std_msgs</depend>
+  <build_depend>message_generation</build_depend>
+  <depend>rospy</depend>
+</package>

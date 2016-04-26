@@ -1,0 +1,14 @@
+string ACTION
+string BUSNUM
+string DEVNAME
+string DEVNUM
+string DEVPATH
+string DEVTYPE
+string INTERFACE
+string MAJOR
+string MINOR
+string MODALIAS
+string PRODUCT
+string SEQNUM
+string SUBSYSTEM
+string TYPE
